@@ -1,0 +1,61 @@
+
+
+.nombre {
+
+font-size: 20px;
+font-weight: bold;
+margin-bottom: 10px;
+
+}
+
+.ubicacion {
+
+font-size: 14px;
+color: #777;
+margin-bottom: 20px;
+
+}
+
+.logoperf{
+    width: 80px;
+    height: 80px;
+}
+
+
+
+.ubicacion img {
+
+width: 16px;
+vertical-align: middle;
+margin-right: 5px;
+
+}
+
+.biografia { 
+
+font-size: 14px;
+line-height: 1.6;
+margin-bottom: 20px;
+
+}
+
+.opciones { 
+
+display: flex;
+align-items: center;
+
+}
+
+.icono-configuracion { 
+
+font-size: 20px;
+margin-right: 10px;
+
+}
+
+.editar-perfil { 
+
+color: #135ee9;
+font-weight: bold;
+
+}
